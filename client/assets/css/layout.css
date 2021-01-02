@@ -1,0 +1,24 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: #fff;
+    text-align: left;
+    padding: 5px 15px;
+}
+
+input[type='text'],input[type='password']{
+    padding: 5px;
+    text-align: left;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+.btn{
+    width:100px;
+    padding:5px;
+}
